@@ -1,4 +1,8 @@
 _repo: The-Isle-of-Man_46838
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46838-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Morris, Joseph E. (Joseph Ernest)
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '1412'
     url: http://www.gutenberg.org/2009/agents/1412
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46838#The-Isle-of-Man
 gutenberg_issued: '2014-09-10'
 gutenberg_type: Text
 identifiers:
